@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./profile-top.svg?v=20261013-1921">
-<img src="./profile-top-light.svg?v=20261013-1921" width="860" />
+<source media="(prefers-color-scheme: dark)" srcset="./profile-top.svg?v=20261013-2345">
+<img src="./profile-top-light.svg?v=20261013-2345" width="860" />
 </picture>
 
 </div>
