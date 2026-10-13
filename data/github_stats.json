@@ -1,34 +1,34 @@
 {
   "username": "lucasfdigital",
-  "fetched_at": "2026-10-13T11:53:08.516094Z",
+  "fetched_at": "2026-10-13T19:21:02.040067Z",
   "repo_count": 7,
   "stars": 4,
-  "prs": 26,
+  "prs": 28,
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 367748,
-      "pct": 45.5
+      "bytes": 380987,
+      "pct": 45.8
     },
     {
       "name": "CSS",
-      "bytes": 212293,
-      "pct": 26.3
+      "bytes": 200825,
+      "pct": 24.2
     },
     {
       "name": "JavaScript",
-      "bytes": 158213,
-      "pct": 19.6
+      "bytes": 169750,
+      "pct": 20.4
+    },
+    {
+      "name": "HTML",
+      "bytes": 43328,
+      "pct": 5.2
     },
     {
       "name": "Python",
       "bytes": 34171,
-      "pct": 4.2
-    },
-    {
-      "name": "HTML",
-      "bytes": 34112,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "MDX",
@@ -43,6 +43,13 @@
       "prs": 8,
       "issues": 0,
       "total": 8
+    },
+    {
+      "repo": "lucasfdigital/PageClip",
+      "commits": 0,
+      "prs": 5,
+      "issues": 0,
+      "total": 5
     },
     {
       "repo": "lucasfdigital/github-profile-dashboard",
@@ -64,13 +71,6 @@
       "prs": 1,
       "issues": 1,
       "total": 2
-    },
-    {
-      "repo": "lucasfdigital/PageClip",
-      "commits": 0,
-      "prs": 1,
-      "issues": 0,
-      "total": 1
     }
   ]
 }
