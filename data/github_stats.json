@@ -1,6 +1,6 @@
 {
   "username": "lucasfdigital",
-  "fetched_at": "2026-10-21T13:53:28.541833Z",
+  "fetched_at": "2026-10-21T20:13:26.733646Z",
   "repo_count": 7,
   "stars": 5,
   "prs": 28,
@@ -63,13 +63,6 @@
       "commits": 0,
       "prs": 2,
       "issues": 0,
-      "total": 2
-    },
-    {
-      "repo": "anomalyco/opencode",
-      "commits": 0,
-      "prs": 1,
-      "issues": 1,
       "total": 2
     }
   ]
