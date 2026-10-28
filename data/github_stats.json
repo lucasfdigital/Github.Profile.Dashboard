@@ -1,34 +1,34 @@
 {
   "username": "lucasfdigital",
-  "fetched_at": "2026-10-28T15:11:02.257758Z",
+  "fetched_at": "2026-10-28T21:09:14.014177Z",
   "repo_count": 8,
   "stars": 5,
   "prs": 28,
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 880635,
-      "pct": 61.6
+      "bytes": 917677,
+      "pct": 62.5
     },
     {
       "name": "CSS",
-      "bytes": 299208,
-      "pct": 20.9
+      "bytes": 299919,
+      "pct": 20.4
     },
     {
       "name": "JavaScript",
       "bytes": 170164,
-      "pct": 11.9
+      "pct": 11.6
     },
     {
       "name": "HTML",
       "bytes": 43627,
-      "pct": 3.1
+      "pct": 3.0
     },
     {
       "name": "Python",
       "bytes": 34171,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "MDX",
