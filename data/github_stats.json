@@ -1,9 +1,9 @@
 {
   "username": "lucasfdigital",
-  "fetched_at": "2026-10-31T23:26:12.652802Z",
+  "fetched_at": "2026-11-01T06:18:09.495798Z",
   "repo_count": 8,
   "stars": 5,
-  "prs": null,
+  "prs": 28,
   "languages": [
     {
       "name": "TypeScript",
