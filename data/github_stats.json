@@ -1,6 +1,6 @@
 {
   "username": "lucasfdigital",
-  "fetched_at": "2026-11-07T23:42:36.329127Z",
+  "fetched_at": "2026-11-08T06:13:22.913894Z",
   "repo_count": 8,
   "stars": 5,
   "prs": 28,
@@ -38,14 +38,14 @@
   ],
   "repos": [
     {
-      "repo": "lucasfdigital/github-profile-site",
+      "repo": "lucasfdigital/PageClip",
       "commits": 0,
-      "prs": 8,
+      "prs": 4,
       "issues": 0,
-      "total": 8
+      "total": 4
     },
     {
-      "repo": "lucasfdigital/PageClip",
+      "repo": "lucasfdigital/github-profile-site",
       "commits": 0,
       "prs": 4,
       "issues": 0,
@@ -54,9 +54,9 @@
     {
       "repo": "lucasfdigital/Github.Profile.Dashboard",
       "commits": 0,
-      "prs": 4,
+      "prs": 2,
       "issues": 0,
-      "total": 4
+      "total": 2
     },
     {
       "repo": "lucasfdigital/lucasfdigital",
