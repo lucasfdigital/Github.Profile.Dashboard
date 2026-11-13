@@ -1,6 +1,6 @@
 {
   "username": "lucasfdigital",
-  "fetched_at": "2026-11-13T01:10:04.058642Z",
+  "fetched_at": "2026-11-13T12:19:00.482495Z",
   "repo_count": 8,
   "stars": 5,
   "prs": 28,
@@ -36,13 +36,5 @@
       "pct": 0.1
     }
   ],
-  "repos": [
-    {
-      "repo": "lucasfdigital/PageClip",
-      "commits": 0,
-      "prs": 3,
-      "issues": 0,
-      "total": 3
-    }
-  ]
+  "repos": []
 }
